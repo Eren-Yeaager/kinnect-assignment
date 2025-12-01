@@ -1,0 +1,18 @@
+node_modules/
+test-results/
+allure-report/
+playwright-report/
+.DS_Store
+.env
+.env.local
+*.log
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Visual testing snapshots (optional - you may want to commit these)
+# test-results/**/*-actual.png
+# test-results/**/*-diff.png

@@ -7,7 +7,7 @@ Automation framework for SauceDemo using Playwright and Cucumber with TypeScript
 - ✅ BDD with Cucumber
 - ✅ TypeScript support
 - ✅ Page Object Model
-- ✅ Docker support for headless execution
+- ✅ Docker support for headless execution : pull the correct version : docker pull mcr.microsoft.com/playwright:v1.39.0-jammy
 - ✅ HTML and JSON test reports
 
 ## Prerequisites
@@ -101,5 +101,3 @@ docker run --rm playwright-cucumber-automation
 - `HEADLESS=true` - Run browser in headless mode
 - `SAUCEDEMO_USERNAME` - Optional username override
 - `SAUCEDEMO_PASSWORD` - Optional password override
-
-## License

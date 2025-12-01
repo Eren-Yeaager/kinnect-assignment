@@ -13,6 +13,3 @@ coverage/
 *.swo
 *~
 
-# Visual testing snapshots (optional - you may want to commit these)
-# test-results/**/*-actual.png
-# test-results/**/*-diff.png
